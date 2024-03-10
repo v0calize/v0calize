@@ -1,6 +1,6 @@
 hey there! name's vocal/vivid.
 i enjoy linux and css, mostly theming for **discord**.
-you can find my full biolink at https://guns.lol/vivid .
+you can find my full biolink at https://guns.lol/timeless .
 that's all! see ya :D
 
 <!---
